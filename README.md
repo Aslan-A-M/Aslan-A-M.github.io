@@ -7,3 +7,5 @@ This, however, is much easier to grasp. So it is fine.
 Who would not want to build a resume, anyway?
 
 Thanks W3Schools, for this step-by-step tutorial!
+
+Well, here's editing in GitHub.
