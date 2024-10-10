@@ -11,3 +11,5 @@ Thanks W3Schools, for this step-by-step tutorial!
 Well, here's editing in GitHub.
 
 I'm about to pull this right here!
+
+I will clone FinQuantumInc's repositories today, so I can prove I did something.
